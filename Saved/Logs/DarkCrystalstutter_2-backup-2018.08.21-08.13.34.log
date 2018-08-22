@@ -1,0 +1,782 @@
+﻿Log file open, 08/21/18 08:12:04
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: DarkCrystalstutter
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(806384080) SRandInit(806384080).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 4033788, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 17 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.218244
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: -8:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemSteam/Binaries/Win64/UE4Editor-OnlineSubsystemSteam.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/VictoryPlugin/Binaries/Win64/UE4Editor-VictoryBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestruction.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ApexDestruction/Binaries/Win64/UE4Editor-ApexDestructionEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/AdvancedSessions/AdvancedSessions/Binaries/Win64/UE4Editor-AdvancedSessions.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/AdvancedSessions/AdvancedSteamSessions/Binaries/Win64/UE4Editor-AdvancedSteamSessions.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AdvancedSessions
+LogPluginManager: Mounting plugin AdvancedSteamSessions
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemSteam
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin ApexDestruction
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin VictoryBPLibrary
+LogStreaming: Display: Took  0.768s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogOnline: Display: STEAM: Loading Steam SDK 1.39
+LogWindows: Failed to load '../../../Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steamclient64.dll' (GetLastError=126)
+LogWindows: File '../../../Engine/Binaries/ThirdParty/Steamworks/Steamv139/Win64/steamclient64.dll' does not exist
+LogOnline: Warning: STEAM: Steam API disabled!
+LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-LI0N2FC (192.168.29.155:0)
+LogInit: Build: ++UE4+Release-4.19-CL-4033788
+LogInit: Engine Version: 4.19.2-4033788+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr 27 2018 02:06:57
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  /Game/Maps/Arena01 -game -PIEVIACONSOLE -ResX=640 -ResY=480  -Multiprocess -messaging -SessionName="Play in Standalone Game" -port=17777 -windowed GameUserSettingsINI="G:/DarkActive/Unreal Projects/DarkCrystalstutter/Saved/Config/Windows/PIEGameUserSettings0.ini" -MultiprocessSaveConfig  -MultiprocessOSS -server -log 
+LogInit: Base Directory: G:/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.007s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.08.21-15.12.05:223][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.21-15.12.05:224][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.08.21-15.12.05:231][  0]LogInit: Computer: DESKTOP-LI0N2FC
+[2018.08.21-15.12.05:231][  0]LogInit: User: Kappa
+[2018.08.21-15.12.05:232][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.08.21-15.12.05:232][  0]LogInit: High frequency timer resolution =4.101571 MHz
+[2018.08.21-15.12.05:233][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2018.08.21-15.12.05:233][  0]LogMemory: Platform Memory Stats for Windows
+[2018.08.21-15.12.05:233][  0]LogMemory: Process Physical Memory: 276.69 MB used, 276.69 MB peak
+[2018.08.21-15.12.05:233][  0]LogMemory: Process Virtual Memory: 276.48 MB used, 276.48 MB peak
+[2018.08.21-15.12.05:233][  0]LogMemory: Physical Memory: 13280.57 MB used,  19412.24 MB free, 32692.81 MB total
+[2018.08.21-15.12.05:236][  0]LogMemory: Virtual Memory: 4801.96 MB used,  19412.24 MB free, 134217728.00 MB total
+[2018.08.21-15.12.05:252][  0]LogInit: Using OS detected language (en-US).
+[2018.08.21-15.12.05:252][  0]LogInit: Using OS detected locale (en-US).
+[2018.08.21-15.12.05:253][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the language.
+[2018.08.21-15.12.05:253][  0]LogTextLocalizationManager: No localization for 'en-US' exists, so 'en' will be used for the locale.
+[2018.08.21-15.12.05:587][  0]LogStreaming: Display: Took  0.336s to EndInitTextLocalization.
+[2018.08.21-15.12.05:601][  0]LogShaderCompilers: Guid format shader working directory is -15 characters bigger than the processId version (../../../../../DarkActive/Unreal Projects/DarkCrystalstutter/Intermediate/Shaders/WorkingDirectory/14440/).
+[2018.08.21-15.12.05:601][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Kappa/AppData/Local/Temp/UnrealShaderWorkingDir/E0508BF34B6CCE1BD14D35AAAC29AE14/'.
+[2018.08.21-15.12.05:777][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.08.21-15.12.05:791][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.08.21-15.12.05:806][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.08.21-15.12.05:819][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.08.21-15.12.05:820][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.08.21-15.12.05:891][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.08.21-15.12.05:891][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.08.21-15.12.05:892][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.08.21-15.12.06:285][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.08.21-15.12.06:342][  0]LogDerivedDataCache: Loaded boot cache 0.06s 74MB C:/Users/Kappa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.08.21-15.12.06:343][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/Kappa/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc
+[2018.08.21-15.12.06:343][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../DarkActive/Unreal Projects/DarkCrystalstutter/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.08.21-15.12.06:344][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.08.21-15.12.06:344][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../DarkActive/Unreal Projects/DarkCrystalstutter/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.08.21-15.12.06:344][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.08.21-15.12.06:359][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.08.21-15.12.06:371][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Kappa/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.08.21-15.12.06:371][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2018.08.21-15.12.06:371][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2018.08.21-15.12.06:404][  0]LogAssetRegistry: FAssetRegistry took 0.0031 seconds to start up
+[2018.08.21-15.12.06:584][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.011304 seconds
+[2018.08.21-15.12.06:667][  0]LogInit: Selected Device Profile: [Windows]
+[2018.08.21-15.12.06:710][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.08.21-15.12.06:712][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.08.21-15.12.06:712][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.08.21-15.12.06:712][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.08.21-15.12.06:713][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.08.21-15.12.06:713][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.08.21-15.12.06:730][  0]LogNetVersion: DarkCrystalstutter , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 1586386174)
+[2018.08.21-15.12.07:052][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.08.21-15.12.07:073][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.08.21-15.12.07:167][  0]LogCollectionManager: Loaded 0 collections in 0.000992 seconds
+[2018.08.21-15.12.07:203][  0]LogFileCache: Scanning file cache for directory 'G:/DarkActive/Unreal Projects/DarkCrystalstutter/Saved/Collections/' took 0.01s
+[2018.08.21-15.12.07:203][  0]LogFileCache: Scanning file cache for directory 'G:/DarkActive/Unreal Projects/DarkCrystalstutter/Content/Developers/Kappa/Collections/' took 0.01s
+[2018.08.21-15.12.07:204][  0]LogFileCache: Scanning file cache for directory 'G:/DarkActive/Unreal Projects/DarkCrystalstutter/Content/Collections/' took 0.01s
+[2018.08.21-15.12.07:204][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2018.08.21-15.12.07:204][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.001231 seconds (updated 0 objects)
+[2018.08.21-15.12.07:326][  0]SourceControl: Source control is disabled
+[2018.08.21-15.12.07:327][  0]SourceControl: Source control is disabled
+[2018.08.21-15.12.07:339][  0]SourceControl: Source control is disabled
+[2018.08.21-15.12.07:583][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.08.21-15.12.07:677][  0]LogOcInput: OculusInput pre-init called
+[2018.08.21-15.12.07:713][  0]LogUObjectArray: 41286 objects as part of root set at end of initial load.
+[2018.08.21-15.12.07:713][  0]LogUObjectAllocator: 8567600 out of 0 bytes used by permanent object pool.
+[2018.08.21-15.12.07:714][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.08.21-15.12.07:740][  0]LogEngine: Initializing Engine...
+[2018.08.21-15.12.07:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.21-15.12.07:742][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.21-15.12.07:763][  0]LogInit: Texture streaming: Disabled
+[2018.08.21-15.12.07:798][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f61a1ac00, Size=624, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.08.21-15.12.07:802][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6e3dd530, Size=40, Default__ErrorDialog_C Function /Game/UI/MainMenu/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog
+[2018.08.21-15.12.07:810][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f66f1ff60, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.08.21-15.12.07:817][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6e3dd5d0, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.21-15.12.07:822][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f66efabe0, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.08.21-15.12.07:839][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6ac1a200, Size=600, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.21-15.12.07:893][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f61a1ac00, Size=624
+[2018.08.21-15.12.07:893][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6fbf8900, Size=624, Default__GameInfoInstance_C Function /Engine/Transient.REINST_GameInfoInstance_C_2:ExecuteUbergraph_GameInfoInstance
+[2018.08.21-15.12.07:894][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6e3dd530, Size=40
+[2018.08.21-15.12.07:894][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6abb16c0, Size=40, Default__ErrorDialog_C Function /Engine/Transient.REINST_ErrorDialog_C_0:ExecuteUbergraph_ErrorDialog
+[2018.08.21-15.12.07:896][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f66f1ff60, Size=80
+[2018.08.21-15.12.07:896][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f682e6c50, Size=80, Default__HostMenu_C Function /Engine/Transient.REINST_HostMenu_C_1:ExecuteUbergraph_HostMenu
+[2018.08.21-15.12.07:896][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6e3dd5d0, Size=40
+[2018.08.21-15.12.07:897][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6abb15d0, Size=40, Default__MainMenu_C Function /Engine/Transient.REINST_MainMenu_C_3:ExecuteUbergraph_MainMenu
+[2018.08.21-15.12.07:897][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f66efabe0, Size=104
+[2018.08.21-15.12.07:897][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f682e2da0, Size=104, Default__OptionsMenu_C Function /Engine/Transient.REINST_OptionsMenu_C_4:ExecuteUbergraph_OptionsMenu
+[2018.08.21-15.12.07:899][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6ac1a200, Size=600
+[2018.08.21-15.12.07:899][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6831fd80, Size=600, Default__ServerMenu_C Function /Engine/Transient.REINST_ServerMenu_C_5:ExecuteUbergraph_ServerMenu
+[2018.08.21-15.12.07:931][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f60d95580, Size=624, Default__GameInfoInstance_C Function /Game/Blueprints/AllLevels/GameInfoInstance.GameInfoInstance_C:ExecuteUbergraph_GameInfoInstance
+[2018.08.21-15.12.07:932][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6abb1d50, Size=40, Default__ErrorDialog_C Function /Game/UI/MainMenu/ErrorDialog.ErrorDialog_C:ExecuteUbergraph_ErrorDialog
+[2018.08.21-15.12.07:934][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f60d70bd0, Size=80, Default__HostMenu_C Function /Game/UI/MainMenu/HostMenu.HostMenu_C:ExecuteUbergraph_HostMenu
+[2018.08.21-15.12.07:935][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6abb2728, Size=40, Default__MainMenu_C Function /Game/UI/MainMenu/MainMenu.MainMenu_C:ExecuteUbergraph_MainMenu
+[2018.08.21-15.12.07:936][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f60ceb970, Size=104, Default__OptionsMenu_C Function /Game/UI/MainMenu/OptionsMenu.OptionsMenu_C:ExecuteUbergraph_OptionsMenu
+[2018.08.21-15.12.07:938][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f60d0ae80, Size=592, Default__ServerMenu_C Function /Game/UI/MainMenu/ServerMenu.ServerMenu_C:ExecuteUbergraph_ServerMenu
+[2018.08.21-15.12.07:956][  0]LogInit: Display: Game Engine Initialized.
+[2018.08.21-15.12.07:956][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.08.21-15.12.07:957][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.08.21-15.12.07:957][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.08.21-15.12.08:014][  0]LogInit: Display: Starting Game.
+[2018.08.21-15.12.08:014][  0]LogNet: Browse: /Game/Maps/Arena01?Name=Player
+[2018.08.21-15.12.08:014][  0]LogLoad: LoadMap: /Game/Maps/Arena01?Name=Player
+[2018.08.21-15.12.08:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6fbf8900, Size=624
+[2018.08.21-15.12.08:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6abb16c0, Size=40
+[2018.08.21-15.12.08:027][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f682e6c50, Size=80
+[2018.08.21-15.12.08:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6abb15d0, Size=40
+[2018.08.21-15.12.08:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f682e2da0, Size=104
+[2018.08.21-15.12.08:028][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6831fd80, Size=600
+[2018.08.21-15.12.08:060][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f60d3c800, Size=256, Default__GameplayGM_C Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:ExecuteUbergraph_GameplayGM
+[2018.08.21-15.12.08:068][  0]LogLinker: Can't find file '/Game/Blueprints/Characters/Female/Kachujin/Animations/Montages/AM_Roll'
+[2018.08.21-15.12.08:068][  0]LogLinker: Can't find file '/Game/Blueprints/Characters/Female/Kachujin/Animations/Montages/AM_Roll'
+[2018.08.21-15.12.08:069][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6fbfa700, Size=544, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:085][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f68444680, Size=32, Default__ABP_WoodenBow_C Function /Game/Blueprints/Items/Weapons/WoodenBow/ABP_WoodenBow.ABP_WoodenBow_C:ExecuteUbergraph_ABP_WoodenBow
+[2018.08.21-15.12.08:091][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7003f010, Size=72, Default__BPC_MontageManager_C Function /Game/Blueprints/Components/BPC_MontageManager.BPC_MontageManager_C:ExecuteUbergraph_BPC_MontageManager
+[2018.08.21-15.12.08:110][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f60cd9600, Size=2528, Default__GameplayPC_C Function /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:ExecuteUbergraph_GameplayPC
+[2018.08.21-15.12.08:113][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6842c1c0, Size=96, Default__GameplayPS_C Function /Game/Blueprints/Gameplay/GameplayPS.GameplayPS_C:ExecuteUbergraph_GameplayPS
+[2018.08.21-15.12.08:139][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6cf1d580, Size=320, Default__ChatWindow_C Function /Game/UI/AllLevels/ChatWindow.ChatWindow_C:ExecuteUbergraph_ChatWindow
+[2018.08.21-15.12.08:141][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f66ed3c80, Size=888, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.08.21-15.12.08:143][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6cefbd00, Size=752, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.08.21-15.12.08:148][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6ced6e80, Size=544, Default__BP_MaleCharacter_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:154][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6ced6700, Size=544, Default__BP_MaleCharacter_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:167][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f66efae80, Size=112, Default__ABP_BerserkerDefault_C Function /Game/Characters/Berserker_S1/Blueprints/ABP_BerserkerDefault.ABP_BerserkerDefault_C:ExecuteUbergraph_ABP_BerserkerDefault
+[2018.08.21-15.12.08:191][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6cac1f80, Size=544, Default__BP_FemaleCharacter_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:195][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6caafc00, Size=128, Default__ABP_Kachujin_C Function /Game/Characters/Kachujin/ABP_Kachujin.ABP_Kachujin_C:ExecuteUbergraph_ABP_Kachujin
+[2018.08.21-15.12.08:232][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6d1c9080, Size=544, Default__Tusk_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:236][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6d2a5f80, Size=64, Default__0_BaseAnimBP_C Function /Game/InfinityBladeWarriors/Animations/0_BaseAnimBP.0_BaseAnimBP_C:ExecuteUbergraph_0_BaseAnimBP
+[2018.08.21-15.12.08:256][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6d2dca40, Size=312, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.21-15.12.08:259][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6db052b0, Size=80, Default__CharacterSelect_C Function /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.21-15.12.08:275][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f70a3a5c0, Size=192, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.21-15.12.08:276][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6d296820, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.08.21-15.12.08:303][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f6f771890, Size=4, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.08.21-15.12.08:411][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6d2a5f80, Size=64
+[2018.08.21-15.12.08:412][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f715851c0, Size=64, Default__0_BaseAnimBP_C Function /Engine/Transient.REINST_0_BaseAnimBP_C_0:ExecuteUbergraph_0_BaseAnimBP
+[2018.08.21-15.12.08:414][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f66efae80, Size=112
+[2018.08.21-15.12.08:414][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f71229280, Size=112, Default__ABP_BerserkerDefault_C Function /Engine/Transient.REINST_ABP_BerserkerDefault_C_1:ExecuteUbergraph_ABP_BerserkerDefault
+[2018.08.21-15.12.08:415][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6caafc00, Size=128
+[2018.08.21-15.12.08:415][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f71561580, Size=128, Default__ABP_Kachujin_C Function /Engine/Transient.REINST_ABP_Kachujin_C_2:ExecuteUbergraph_ABP_Kachujin
+[2018.08.21-15.12.08:416][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f68444680, Size=32
+[2018.08.21-15.12.08:416][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f711aee00, Size=32, Default__ABP_WoodenBow_C Function /Engine/Transient.REINST_ABP_WoodenBow_C_3:ExecuteUbergraph_ABP_WoodenBow
+[2018.08.21-15.12.08:417][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f7003f010, Size=72
+[2018.08.21-15.12.08:417][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f71177100, Size=72, Default__BPC_MontageManager_C Function /Engine/Transient.REINST_BPC_MontageManager_C_19:ExecuteUbergraph_BPC_MontageManager
+[2018.08.21-15.12.08:419][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6fbfa700, Size=544
+[2018.08.21-15.12.08:419][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f71578900, Size=544, Default__0_Base_C Function /Engine/Transient.REINST_0_Base_C_23:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:420][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6db052b0, Size=80
+[2018.08.21-15.12.08:420][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f711743b0, Size=80, Default__CharacterSelect_C Function /Engine/Transient.REINST_CharacterSelect_C_6:ExecuteUbergraph_CharacterSelect
+[2018.08.21-15.12.08:421][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6cf1d580, Size=320
+[2018.08.21-15.12.08:422][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7156d800, Size=320, Default__ChatWindow_C Function /Engine/Transient.REINST_ChatWindow_C_8:ExecuteUbergraph_ChatWindow
+[2018.08.21-15.12.08:423][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6f771890, Size=4
+[2018.08.21-15.12.08:423][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f70ddc6e0, Size=4, Default__ConnectedPlayer_C Function /Engine/Transient.REINST_ConnectedPlayer_C_9:ExecuteUbergraph_ConnectedPlayer
+[2018.08.21-15.12.08:425][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f60cd9600, Size=2528
+[2018.08.21-15.12.08:425][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f68328100, Size=2528, Default__GameplayPC_C Function /Engine/Transient.REINST_GameplayPC_C_26:ExecuteUbergraph_GameplayPC
+[2018.08.21-15.12.08:426][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6842c1c0, Size=96
+[2018.08.21-15.12.08:426][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f71534760, Size=96, Default__GameplayPS_C Function /Engine/Transient.REINST_GameplayPS_C_27:ExecuteUbergraph_GameplayPS
+[2018.08.21-15.12.08:427][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f70a3a5c0, Size=192
+[2018.08.21-15.12.08:427][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f711a3400, Size=192, Default__GameSettings_C Function /Engine/Transient.REINST_GameSettings_C_11:ExecuteUbergraph_GameSettings
+[2018.08.21-15.12.08:429][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6d2dca40, Size=312
+[2018.08.21-15.12.08:429][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7156ccc0, Size=312, Default__LobbyMenu_C Function /Engine/Transient.REINST_LobbyMenu_C_12:ExecuteUbergraph_LobbyMenu
+[2018.08.21-15.12.08:430][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f66ed3c80, Size=888
+[2018.08.21-15.12.08:430][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f710e4480, Size=888, Default__LobbyPC_C Function /Engine/Transient.REINST_LobbyPC_C_28:ExecuteUbergraph_LobbyPC
+[2018.08.21-15.12.08:431][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6d296820, Size=32
+[2018.08.21-15.12.08:432][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f711ae680, Size=32, Default__PlayerButton_C Function /Engine/Transient.REINST_PlayerButton_C_13:ExecuteUbergraph_PlayerButton
+[2018.08.21-15.12.08:433][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6cac1f80, Size=544
+[2018.08.21-15.12.08:433][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7113fd80, Size=544, Default__BP_FemaleCharacter_C Function /Engine/Transient.REINST_0_Base_C_23:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:433][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6ced6700, Size=544
+[2018.08.21-15.12.08:434][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7113fb00, Size=544, Default__BP_MaleCharacter_C Function /Engine/Transient.REINST_0_Base_C_23:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:435][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f60d3c800, Size=256
+[2018.08.21-15.12.08:435][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7112f000, Size=256, Default__GameplayGM_C Function /Engine/Transient.REINST_GameplayGM_C_32:ExecuteUbergraph_GameplayGM
+[2018.08.21-15.12.08:436][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6cefbd00, Size=752
+[2018.08.21-15.12.08:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f710c3100, Size=752, Default__LobbyGM_C Function /Engine/Transient.REINST_LobbyGM_C_33:ExecuteUbergraph_LobbyGM
+[2018.08.21-15.12.08:436][  0]LogUObjectGlobals: Destroyed PersistentFrame Addr=0x0000028f6d1c9080, Size=544
+[2018.08.21-15.12.08:436][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7113f880, Size=544, Default__Tusk_C Function /Engine/Transient.REINST_0_Base_C_23:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:584][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f725e6a20, Size=72, Default__0_BaseAnimBP_C Function /Game/InfinityBladeWarriors/Animations/0_BaseAnimBP.0_BaseAnimBP_C:ExecuteUbergraph_0_BaseAnimBP
+[2018.08.21-15.12.08:585][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72597ba0, Size=112, Default__ABP_BerserkerDefault_C Function /Game/Characters/Berserker_S1/Blueprints/ABP_BerserkerDefault.ABP_BerserkerDefault_C:ExecuteUbergraph_ABP_BerserkerDefault
+[2018.08.21-15.12.08:587][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f725c9c00, Size=128, Default__ABP_Kachujin_C Function /Game/Characters/Kachujin/ABP_Kachujin.ABP_Kachujin_C:ExecuteUbergraph_ABP_Kachujin
+[2018.08.21-15.12.08:588][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7257e080, Size=32, Default__ABP_WoodenBow_C Function /Game/Blueprints/Items/Weapons/WoodenBow/ABP_WoodenBow.ABP_WoodenBow_C:ExecuteUbergraph_ABP_WoodenBow
+[2018.08.21-15.12.08:593][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72516a20, Size=72, Default__BPC_MontageManager_C Function /Game/Blueprints/Components/BPC_MontageManager.BPC_MontageManager_C:ExecuteUbergraph_BPC_MontageManager
+[2018.08.21-15.12.08:600][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f71da5a80, Size=536, Default__0_Base_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:603][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72495f80, Size=80, Default__CharacterSelect_C Function /Game/UI/Lobby/CharacterSelect.CharacterSelect_C:ExecuteUbergraph_CharacterSelect
+[2018.08.21-15.12.08:604][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7250b380, Size=320, Default__ChatWindow_C Function /Game/UI/AllLevels/ChatWindow.ChatWindow_C:ExecuteUbergraph_ChatWindow
+[2018.08.21-15.12.08:605][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7299ccc0, Size=4, Default__ConnectedPlayer_C Function /Game/UI/Lobby/ConnectedPlayer.ConnectedPlayer_C:ExecuteUbergraph_ConnectedPlayer
+[2018.08.21-15.12.08:617][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7241ab00, Size=2528, Default__GameplayPC_C Function /Game/Blueprints/Gameplay/GameplayPC.GameplayPC_C:ExecuteUbergraph_GameplayPC
+[2018.08.21-15.12.08:620][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f723637c0, Size=96, Default__GameplayPS_C Function /Game/Blueprints/Gameplay/GameplayPS.GameplayPS_C:ExecuteUbergraph_GameplayPS
+[2018.08.21-15.12.08:623][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72304e80, Size=192, Default__GameSettings_C Function /Game/UI/Lobby/GameSettings.GameSettings_C:ExecuteUbergraph_GameSettings
+[2018.08.21-15.12.08:626][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7250aac0, Size=320, Default__LobbyMenu_C Function /Game/UI/Lobby/LobbyMenu.LobbyMenu_C:ExecuteUbergraph_LobbyMenu
+[2018.08.21-15.12.08:630][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f7229cf00, Size=880, Default__LobbyPC_C Function /Game/Blueprints/Lobby/LobbyPC.LobbyPC_C:ExecuteUbergraph_LobbyPC
+[2018.08.21-15.12.08:632][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f722b8640, Size=32, Default__PlayerButton_C Function /Game/UI/Lobby/PlayerButton.PlayerButton_C:ExecuteUbergraph_PlayerButton
+[2018.08.21-15.12.08:633][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72242c00, Size=536, Default__BP_FemaleCharacter_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:633][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72242700, Size=536, Default__BP_MaleCharacter_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.08:635][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72203f00, Size=256, Default__GameplayGM_C Function /Game/Blueprints/Gameplay/GameplayGM.GameplayGM_C:ExecuteUbergraph_GameplayGM
+[2018.08.21-15.12.08:638][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72226080, Size=784, Default__LobbyGM_C Function /Game/Blueprints/Lobby/LobbyGM.LobbyGM_C:ExecuteUbergraph_LobbyGM
+[2018.08.21-15.12.08:639][  0]LogUObjectGlobals: Created PersistentFrame Addr=0x0000028f72240400, Size=536, Default__Tusk_C Function /Game/Blueprints/Characters/0_Base.0_Base_C:ExecuteUbergraph_0_Base
+[2018.08.21-15.12.09:059][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.159416ms] /Game/Characters/Kachujin/SK_Kachujin.SK_Kachujin
+[2018.08.21-15.12.09:060][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.265752ms] /Game/Blueprints/Items/Weapons/WoodenBow/SK_WoodenBow.SK_WoodenBow
+[2018.08.21-15.12.09:082][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [2.930828ms] /Game/Characters/Berserker_S1/Meshes/Combines/SK_Berserker.SK_Berserker
+[2018.08.21-15.12.09:097][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.388144ms] /Game/InfinityBladeWarriors/Character/CompleteCharacters/SK_CharM_Tusk.SK_CharM_Tusk
+[2018.08.21-15.12.09:106][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [0.207238ms] /Game/Blueprints/Items/Weapons/RelicSword/SK_RelicSword.SK_RelicSword
+[2018.08.21-15.12.09:191][  0]LogAIModule: Creating AISystem for world Arena01
+[2018.08.21-15.12.09:191][  0]LogLoad: Game class is 'GameplayGM_C'
+[2018.08.21-15.12.09:192][  0]LogOnline: Warning: STEAM: Steam API disabled!
+[2018.08.21-15.12.09:192][  0]LogOnline: Display: STEAM: OnlineSubsystemSteam::Shutdown()
+[2018.08.21-15.12.09:192][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.21-15.12.09:193][  0]LogTemp: Display: ParseSettings for IpNetDriver_0
+[2018.08.21-15.12.09:193][  0]LogTemp: Display: ParseSettings for GameNetDriver
+[2018.08.21-15.12.09:193][  0]LogInit: WinSock: Socket queue 131072 / 131072
+[2018.08.21-15.12.09:193][  0]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.21-15.12.09:194][  0]LogNet: GameNetDriver IpNetDriver_0 IpNetDriver listening on port 17777
+[2018.08.21-15.12.09:195][  0]LogWorld: Bringing World /Game/Maps/Arena01.Arena01 up for play (max tick rate 30) at 2018.08.21-08.12.09
+[2018.08.21-15.12.09:195][  0]LogOnline: Warning: OSS: AutoLogin missing AUTH_LOGIN=<login id>.
+[2018.08.21-15.12.09:196][  0]LogWorld: Bringing up level for play took: 0.001939
+[2018.08.21-15.12.09:196][  0]LogGameMode: Display: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.21-15.12.09:197][  0]LogGameState: Match State Changed from EnteringMap to WaitingToStart
+[2018.08.21-15.12.09:197][  0]LogLoad: Took 1.182414 seconds to LoadMap(/Game/Maps/Arena01)
+[2018.08.21-15.12.09:209][  0]LogLoad: (Engine Initialization) Total time: 5.78 seconds
+[2018.08.21-15.12.09:209][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.08.21-15.12.09:245][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50642
+[2018.08.21-15.12.09:245][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.033314, Cookie: 123136221022077111226216238110208146141158197087096012219223
+[2018.08.21-15.12.09:246][  0]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50643
+[2018.08.21-15.12.09:246][  0]LogHandshake: SendConnectChallenge. Timestamp: 0.033314, Cookie: 029036094146029116072054151105240165121016239047237034081005
+[2018.08.21-15.12.09:276][  1]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50642
+[2018.08.21-15.12.09:276][  1]LogHandshake: SendChallengeAck. InCookie: 123136221022077111226216238110208146141158197087096012219223
+[2018.08.21-15.12.09:277][  1]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50642
+[2018.08.21-15.12.09:277][  1]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.21-15.12.09:277][  1]LogNet: NotifyAcceptedConnection: Name: Arena01, TimeStamp: 08/21/18 08:12:09, [UNetConnection] RemoteAddr: 127.0.0.1:50642, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.08.21-15.12.09:277][  1]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50642, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.08.21-15.12.09:310][  2]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Arena01.Arena01: Accepted
+[2018.08.21-15.12.09:310][  2]LogNet: Remote platform little endian=1
+[2018.08.21-15.12.09:310][  2]LogNet: This platform little endian=1
+[2018.08.21-15.12.09:311][  2]LogNetVersion: DarkCrystalstutter 1.0.0.0, NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 454883313)
+[2018.08.21-15.12.09:311][  2]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50643
+[2018.08.21-15.12.09:311][  2]LogHandshake: SendChallengeAck. InCookie: 029036094146029116072054151105240165121016239047237034081005
+[2018.08.21-15.12.09:311][  2]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50643
+[2018.08.21-15.12.09:312][  2]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.21-15.12.09:312][  2]LogNet: NotifyAcceptedConnection: Name: Arena01, TimeStamp: 08/21/18 08:12:09, [UNetConnection] RemoteAddr: 127.0.0.1:50643, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.08.21-15.12.09:312][  2]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50643, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.08.21-15.12.09:342][  3]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Arena01.Arena01: Accepted
+[2018.08.21-15.12.09:342][  3]LogNet: Remote platform little endian=1
+[2018.08.21-15.12.09:342][  3]LogNet: This platform little endian=1
+[2018.08.21-15.12.09:343][  3]LogNet: Login request: /Game/Maps/MainMenu?Name=DESKTOP-LI0N2FC-19C9B7E848AD7D9C68250ABFBD71A19B userId: DESKTOP-LI0N2FC-19C9B7E848AD7D9C68250ABFBD71A19B
+[2018.08.21-15.12.09:375][  4]LogNet: Login request: /Game/Maps/MainMenu?Name=DESKTOP-LI0N2FC-45F8D51544B2F4D14C32DD8E46D693EC userId: DESKTOP-LI0N2FC-45F8D51544B2F4D14C32DD8E46D693EC
+[2018.08.21-15.12.09:375][  4]LogNet: Client netspeed is 10000
+[2018.08.21-15.12.09:409][  5]LogNet: Client netspeed is 10000
+[2018.08.21-15.12.10:139][ 27]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50641
+[2018.08.21-15.12.10:139][ 27]LogHandshake: SendConnectChallenge. Timestamp: 0.929412, Cookie: 234015208192092207118074178214206149084025253159151079010084
+[2018.08.21-15.12.10:172][ 28]LogNet: NotifyAcceptingConnection accepted from: 127.0.0.1:50641
+[2018.08.21-15.12.10:172][ 28]LogHandshake: SendChallengeAck. InCookie: 234015208192092207118074178214206149084025253159151079010084
+[2018.08.21-15.12.10:173][ 28]LogNet: Server accepting post-challenge connection from: 127.0.0.1:50641
+[2018.08.21-15.12.10:173][ 28]PacketHandlerLog: Loaded PacketHandler component: Engine.EngineHandlerComponentFactory (StatelessConnectHandlerComponent)
+[2018.08.21-15.12.10:173][ 28]LogNet: NotifyAcceptedConnection: Name: Arena01, TimeStamp: 08/21/18 08:12:10, [UNetConnection] RemoteAddr: 127.0.0.1:50641, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.08.21-15.12.10:174][ 28]LogNet: AddClientConnection: Added client connection: [UNetConnection] RemoteAddr: 127.0.0.1:50641, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: NULL, Owner: NULL, UniqueId: INVALID
+[2018.08.21-15.12.10:206][ 29]LogNet: NotifyAcceptingChannel Control 0 server World /Game/Maps/Arena01.Arena01: Accepted
+[2018.08.21-15.12.10:206][ 29]LogNet: Remote platform little endian=1
+[2018.08.21-15.12.10:207][ 29]LogNet: This platform little endian=1
+[2018.08.21-15.12.10:239][ 30]LogNet: Login request: /Game/Maps/MainMenu?Name=DESKTOP-LI0N2FC-043FC2A4454F7101644A3C92874F3604 userId: DESKTOP-LI0N2FC-043FC2A4454F7101644A3C92874F3604
+[2018.08.21-15.12.10:273][ 31]LogNet: Client netspeed is 10000
+[2018.08.21-15.12.10:536][ 39]LogNet: Join request: /Game/Maps/MainMenu?Name=DESKTOP-LI0N2FC-19C9B7E848AD7D9C68250ABFBD71A19B?SplitscreenCount=1
+[2018.08.21-15.12.10:536][ 39]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.08.21-15.12.10:538][ 39]LogGameMode: Display: Match State Changed from WaitingToStart to InProgress
+[2018.08.21-15.12.10:541][ 39]LogGameState: Match State Changed from WaitingToStart to InProgress
+[2018.08.21-15.12.10:541][ 39]LogNet: Join succeeded: DESKTOP-LI0N2FC-19C9
+[2018.08.21-15.12.10:542][ 39]LogNet: Join request: /Game/Maps/MainMenu?Name=DESKTOP-LI0N2FC-45F8D51544B2F4D14C32DD8E46D693EC?SplitscreenCount=1
+[2018.08.21-15.12.10:542][ 39]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.08.21-15.12.10:545][ 39]LogNet: Join succeeded: DESKTOP-LI0N2FC-45F8
+[2018.08.21-15.12.10:768][ 46]LogNetPackageMap: Warning: SanityCheckExport: CacheObject == NULL. NetGUID: 1, Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Ceramic_Tile_M
+[2018.08.21-15.12.10:769][ 46]LogNetPackageMap: Warning: SanityCheckExport: Name mismatch. NetGUID: 1, Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Ceramic_Tile_M
+[2018.08.21-15.12.10:769][ 46]LogNetPackageMap: Warning: SanityCheckExport: Outer mismatch. Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, NetGUID: 1, Current: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD, Expected: /Game/StarterContent/Textures/T_Ceramic_Tile_M
+[2018.08.21-15.12.10:773][ 46]LogBlueprintUserMessages: [GameplayGM_C_0] 0
+[2018.08.21-15.12.10:773][ 46]LogNetPackageMap: Warning: SanityCheckExport: CacheObject == NULL. NetGUID: 1, Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Ceramic_Tile_M
+[2018.08.21-15.12.10:774][ 46]LogNetPackageMap: Warning: SanityCheckExport: Name mismatch. NetGUID: 1, Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Ceramic_Tile_M
+[2018.08.21-15.12.10:774][ 46]LogNetPackageMap: Warning: SanityCheckExport: Outer mismatch. Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, NetGUID: 1, Current: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD, Expected: /Game/StarterContent/Textures/T_Ceramic_Tile_M
+[2018.08.21-15.12.10:778][ 46]LogBlueprintUserMessages: [GameplayGM_C_0] 1
+[2018.08.21-15.12.11:037][ 54]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.11:038][ 54]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.11:202][ 59]LogBlueprintUserMessages: [GameplayPC_C_0] Reset Jump controller id: 0
+[2018.08.21-15.12.11:500][ 68]LogNet: Join request: /Game/Maps/MainMenu?Name=DESKTOP-LI0N2FC-043FC2A4454F7101644A3C92874F3604?SplitscreenCount=1
+[2018.08.21-15.12.11:501][ 68]LogOnline: Warning: OSS: No game present to join for session (GameSession)
+[2018.08.21-15.12.11:504][ 68]LogNet: Join succeeded: DESKTOP-LI0N2FC-043F
+[2018.08.21-15.12.11:567][ 70]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.11:567][ 70]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.11:667][ 73]LogNetPackageMap: Warning: SanityCheckExport: CacheObject == NULL. NetGUID: 1, Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Ceramic_Tile_M
+[2018.08.21-15.12.11:668][ 73]LogNetPackageMap: Warning: SanityCheckExport: Name mismatch. NetGUID: 1, Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, Expected: T_Ceramic_Tile_M
+[2018.08.21-15.12.11:668][ 73]LogNetPackageMap: Warning: SanityCheckExport: Outer mismatch. Object: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD.UE4_LOGO_CARD, NetGUID: 1, Current: /Game/Mannequin/Character/Textures/UE4_LOGO_CARD, Expected: /Game/StarterContent/Textures/T_Ceramic_Tile_M
+[2018.08.21-15.12.11:671][ 73]LogBlueprintUserMessages: [GameplayGM_C_0] 2
+[2018.08.21-15.12.11:969][ 82]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.12:070][ 85]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.12:070][ 85]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.12:071][ 85]LogBlueprintUserMessages: [GameplayPC_C_2] Reset Jump controller id: 2
+[2018.08.21-15.12.12:501][ 98]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.12:600][101]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.12:600][101]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.13:030][114]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.13:130][117]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.13:130][117]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.13:361][124]LogBlueprintUserMessages: [DCGameState_C_0] Error: Selected weapon is invalid.
+[2018.08.21-15.12.13:560][130]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.13:659][133]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.13:659][133]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.13:991][143]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.13:991][143]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.14:091][146]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.14:191][149]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.14:191][149]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.14:622][162]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.14:722][165]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.14:722][165]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.14:820][168]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.14:820][168]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.15:150][178]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.15:249][181]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.15:249][181]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.15:613][192]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.15:613][192]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.15:680][194]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.15:780][197]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.15:780][197]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.16:209][210]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.16:310][213]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.16:310][213]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.16:343][214]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.16:343][214]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.16:739][226]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.16:840][229]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.16:840][229]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.17:104][237]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.17:104][237]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.17:269][242]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.17:369][245]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.17:369][245]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.17:801][258]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.17:901][261]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.17:901][261]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.17:902][261]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.17:902][261]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.18:329][274]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.18:429][277]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.18:429][277]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.18:797][288]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.18:797][288]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.18:830][289]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.18:930][292]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.18:930][292]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.19:331][304]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.19:432][307]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.19:432][307]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.19:865][320]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.19:932][322]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.19:932][322]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.20:031][325]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.20:031][325]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.20:396][336]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.20:463][338]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.20:463][338]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.20:928][352]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.20:928][352]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.20:928][352]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.20:993][354]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.20:993][354]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.21:459][368]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.21:493][369]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.21:493][369]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.21:923][382]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.21:923][382]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.21:989][384]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.22:023][385]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.22:023][385]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.22:520][400]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.22:554][401]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.22:554][401]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.22:819][409]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.22:819][409]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.23:050][416]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.23:083][417]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.23:083][417]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.23:578][432]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.23:611][433]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.23:611][433]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.23:877][441]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.23:877][441]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.24:109][448]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.24:143][449]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.24:143][449]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.24:637][464]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.24:671][465]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.24:671][465]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.24:737][467]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.24:737][467]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.25:166][480]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.25:200][481]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.25:200][481]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.25:697][496]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.25:697][496]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.25:698][496]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.25:730][497]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.25:730][497]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.26:227][512]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.26:261][513]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.26:261][513]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.26:625][524]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.26:625][524]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.26:757][528]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.26:791][529]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.26:791][529]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.27:285][544]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.27:319][545]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.27:319][545]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.27:450][549]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.27:450][549]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.27:815][560]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.27:849][561]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.27:849][561]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.28:345][576]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.28:345][576]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.28:346][576]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.28:379][577]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.28:379][577]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.28:876][592]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.28:910][593]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.28:910][593]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.29:379][607]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.29:413][608]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.29:413][608]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.29:912][623]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.29:946][624]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.29:946][624]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.29:979][625]LogBlueprintUserMessages: [GameplayPC_C_0] Reset Jump controller id: 0
+[2018.08.21-15.12.30:442][639]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.30:476][640]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.30:476][640]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.30:975][655]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.31:009][656]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.31:009][656]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.31:506][671]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.31:540][672]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.31:540][672]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.32:039][687]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.32:073][688]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.32:073][688]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.32:568][703]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.32:602][704]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.32:602][704]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.33:099][719]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.33:132][720]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.33:132][720]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.33:331][726]LogBlueprintUserMessages: [GameplayPC_C_1] Reset Jump controller id: 1
+[2018.08.21-15.12.33:599][734]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.33:633][735]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.33:633][735]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.34:101][749]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.34:135][750]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.34:135][750]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.34:634][765]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.34:668][766]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.34:668][766]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.35:167][781]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.35:204][782]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.35:207][782]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.35:668][796]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.35:702][797]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.35:702][797]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.36:165][811]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.36:165][811]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.36:198][812]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.36:232][813]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.36:232][813]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.36:729][828]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.36:763][829]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.36:763][829]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.37:259][844]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.37:293][845]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.37:293][845]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.37:294][845]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.37:294][845]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.37:787][860]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.37:820][861]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.37:820][861]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.38:151][871]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.38:151][871]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.38:316][876]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.38:350][877]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.38:350][877]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.38:847][892]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.38:881][893]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.38:881][893]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.39:013][897]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.39:013][897]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.39:377][908]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.39:411][909]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.39:411][909]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.39:906][924]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.39:939][925]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.39:939][925]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.39:972][926]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.39:972][926]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.40:434][940]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.40:468][941]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.40:468][941]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.40:767][950]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.40:767][950]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.40:965][956]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.40:998][957]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.40:998][957]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.41:463][971]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.41:463][971]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.41:496][972]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.41:530][973]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.41:530][973]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.42:027][988]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.42:061][989]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: false
+[2018.08.21-15.12.42:061][989]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.42:259][995]LogBlueprintUserMessages: [GameplayPC_C_0] state start Interaction
+[2018.08.21-15.12.42:259][995]LogBlueprintUserMessages: [GameplayPC_C_0] state end Idle
+[2018.08.21-15.12.42:555][  4]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.42:589][  5]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.42:589][  5]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.43:086][ 20]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.43:120][ 21]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.43:120][ 21]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.43:617][ 36]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.43:651][ 37]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.43:651][ 37]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.44:050][ 49]LogBlueprintUserMessages: [GameplayPC_C_0] Reset Jump controller id: 0
+[2018.08.21-15.12.44:117][ 51]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.44:151][ 52]LogBlueprintUserMessages: [GameplayPC_C_0] Controller ID-0 selected weapon slot: WeaponSlot1 Hand: true
+[2018.08.21-15.12.44:151][ 52]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.44:219][ 54]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2018.08.21-15.12.44:219][ 54]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50642, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_0, Owner: GameplayPC_C_0, UniqueId: DESKTOP-LI0N2FC-19C9B7E848AD7D9C68250ABFBD71A19B
+[2018.08.21-15.12.44:219][ 54]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50642, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_0, Owner: GameplayPC_C_0, UniqueId: DESKTOP-LI0N2FC-19C9B7E848AD7D9C68250ABFBD71A19B, Channels: 14, Time: 2018.08.21-15.12.44
+[2018.08.21-15.12.44:220][ 54]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50642, Name: IpConnection_0, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_0, Owner: GameplayPC_C_0, UniqueId: DESKTOP-LI0N2FC-19C9B7E848AD7D9C68250ABFBD71A19B
+[2018.08.21-15.12.44:221][ 54]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.08.21-15.12.44:221][ 54]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.08.21-15.12.44:647][ 67]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.44:680][ 68]LogBlueprintUserMessages: [GameplayPC_C_1] Controller ID-1 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.44:977][ 77]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2018.08.21-15.12.44:977][ 77]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50643, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_1, Owner: GameplayPC_C_1, UniqueId: DESKTOP-LI0N2FC-45F8D51544B2F4D14C32DD8E46D693EC
+[2018.08.21-15.12.44:978][ 77]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50643, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_1, Owner: GameplayPC_C_1, UniqueId: DESKTOP-LI0N2FC-45F8D51544B2F4D14C32DD8E46D693EC, Channels: 12, Time: 2018.08.21-15.12.44
+[2018.08.21-15.12.44:978][ 77]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50643, Name: IpConnection_1, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_1, Owner: GameplayPC_C_1, UniqueId: DESKTOP-LI0N2FC-45F8D51544B2F4D14C32DD8E46D693EC
+[2018.08.21-15.12.44:978][ 77]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.08.21-15.12.44:979][ 77]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
+[2018.08.21-15.12.45:175][ 83]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.45:702][ 99]LogBlueprintUserMessages: [GameplayPC_C_2] Controller ID-2 selected weapon slot: Null Hand: false
+[2018.08.21-15.12.45:802][102]LogNet: UChannel::ReceivedSequencedBunch: Bunch.bClose == true. ChIndex == 0. Calling ConditionalCleanUp.
+[2018.08.21-15.12.45:802][102]LogNet: UChannel::CleanUp: ChIndex == 0. Closing connection. [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50641, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_2, Owner: GameplayPC_C_2, UniqueId: DESKTOP-LI0N2FC-043FC2A4454F7101644A3C92874F3604
+[2018.08.21-15.12.45:802][102]LogNet: UNetConnection::Close: [UNetConnection] RemoteAddr: 127.0.0.1:50641, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_2, Owner: GameplayPC_C_2, UniqueId: DESKTOP-LI0N2FC-043FC2A4454F7101644A3C92874F3604, Channels: 11, Time: 2018.08.21-15.12.45
+[2018.08.21-15.12.45:803][102]LogNet: UChannel::Close: Sending CloseBunch. ChIndex == 0. Name: [UChannel] ChIndex: 0, Closing: 0 [UNetConnection] RemoteAddr: 127.0.0.1:50641, Name: IpConnection_2, Driver: GameNetDriver IpNetDriver_0, IsServer: YES, PC: GameplayPC_C_2, Owner: GameplayPC_C_2, UniqueId: DESKTOP-LI0N2FC-043FC2A4454F7101644A3C92874F3604
+[2018.08.21-15.12.45:803][102]LogOnline: Warning: OSS: Can't destroy a null online session (GameSession)
+[2018.08.21-15.12.45:804][102]LogOnline: Warning: OSS: No game present to leave for session (GameSession)
